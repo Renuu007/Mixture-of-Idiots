@@ -1,0 +1,41 @@
+Work and Rate Problem:
+Pipe A can fill a tank in 6 hours. Pipe B can fill the same tank in 8 hours. Pipe C can empty the tank in 12 hours. If all three pipes are opened simultaneously when the tank is empty, but Pipe C is closed after 2 hours, how much longer will it take for the tank to be completely filled?
+
+Logic and Number Problem:
+You have three boxes. One box is labeled "Apples," another "Oranges," and the third "Apples and Oranges." You know that all three labels are incorrect. You are allowed to pick exactly one fruit from only one box. Which box should you pick from to correctly label all three boxes?
+
+Financial/Investment Problem:
+A sum of money is invested at a certain simple interest rate for 3 years. If the interest rate had been 2% higher, the investment would have yielded $120 more in interest. What was the original sum invested?
+
+Average Speed Problem:
+A car travels from City A to City B at an average speed of 60 km/h. On the return journey from City B to City A, it travels at an average speed of 40 km/h. What is the average speed of the car for the entire round trip? (This isn't simply (60+40)/2).
+
+Three Siblings with Evolving Age Ratios:
+Five years ago, the ratio of the ages of Alice, Bob, and Charlie was 3:4:5. Now, the sum of their ages is 60, and in 10 years, Alice’s age will be equal to the sum of Bob’s and Charlie’s ages at that time. How old are Alice, Bob, and Charlie now?
+
+Parent and Child with Changing Differences:
+Ten years ago, a father was four times as old as his son. In five years, the father’s age will be twice the sum of the son’s age at that time and the son’s age 10 years ago. How old are the father and son now?
+
+Twins and Older Sibling Puzzle:
+Emma and Ethan are twins, and their older brother Liam is currently twice as old as they are. In 8 years, the sum of the twins’ ages will be equal to Liam’s age at that time. Additionally, 4 years ago, Liam was three times as old as the twins. How old are Emma, Ethan, and Liam now?
+
+Grandparent, Parent, and Child Age Progression:
+A grandmother, her daughter, and her granddaughter have a combined age of 120 years. Twenty years ago, the grandmother was five times as old as her daughter, and the daughter was six times as old as the granddaughter. In 10 years, the granddaughter’s age will be one-fifth of the grandmother’s age at that time. How old are they now?
+
+Age Reversal Puzzle:
+Today, the product of a mother’s age and her daughter’s age is 245. In 7 years, the mother’s age will be the reverse of the daughter’s age (e.g., if one is 12, the other is 21). How old are the mother and daughter now?
+
+Multiple Time Points with Ratios:
+Fifteen years ago, a father was three times as old as his son, and the son was half as old as his sister. Now, the father’s age is twice the sum of his son’s and daughter’s ages. If the daughter is currently 25 years old, how old are the father and son now?
+
+Non-Linear Age Relationship:
+The square of a brother’s age now is equal to the product of his sister’s age now and her age 5 years ago. In 10 years, the brother will be three years younger than his sister. If the sister is currently older than the brother, how old are they now?
+
+Group Age with Constraints:
+A family consists of two parents and three children. The sum of the parents’ ages is 80, and the sum of the children’s ages is 45. Ten years ago, the eldest child was half the age of the younger parent. In 5 years, the sum of the two younger children’s ages will equal the eldest child’s age. If the age difference between the parents is 4 years, how old is each family member now?
+
+Historical and Future Age Puzzle:
+When a historian was born, her father was 30 years old. At some point in the past, the father’s age was the square of the historian’s age at that time. Now, the historian’s age is a perfect square, and in 7 years, the father’s age will be three times the historian’s age at that time. How old are the historian and her father now?
+
+Cyclic Age Relationships:
+Four friends, A, B, C, and D, have ages that satisfy the following: A’s age now is equal to B’s age 5 years ago plus C’s age 10 years ago. B’s age now is equal to C’s age 5 years ago plus D’s age 10 years ago. C’s age now is equal to D’s age 5 years ago plus A’s age 10 years ago. D’s age now is equal to A’s age 5 years ago plus B’s age 10 years ago. If the sum of their ages is 100, how old is each friend now?
