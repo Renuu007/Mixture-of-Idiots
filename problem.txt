@@ -1,2 +1,2 @@
-John have a sister named Lena. When John was 6 years old, Lena was half John`s age. 
-John is now 30 years old, how old is Lena?
+Three friends, Alex, Ben, and Chloe, have ages such that the sum of their ages is 90. Five years ago, Alex was twice as old as Ben, and in ten years, Chloe will be as old as Alex is now. 
+How old is each person currently?
